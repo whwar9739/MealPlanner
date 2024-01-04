@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealPlannerData", ".\MealPlannerData\MealPlannerData.csproj", "{BC1F647D-AB9F-466C-AEBF-F98F98DB617D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealPlannerAPI", ".\MealPlannerAPI\MealPlannerAPI.csproj", "{182980B4-7985-4FAE-B5B4-46E4A45F4A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1F647D-AB9F-466C-AEBF-F98F98DB617D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1F647D-AB9F-466C-AEBF-F98F98DB617D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1F647D-AB9F-466C-AEBF-F98F98DB617D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1F647D-AB9F-466C-AEBF-F98F98DB617D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182980B4-7985-4FAE-B5B4-46E4A45F4A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182980B4-7985-4FAE-B5B4-46E4A45F4A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182980B4-7985-4FAE-B5B4-46E4A45F4A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182980B4-7985-4FAE-B5B4-46E4A45F4A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85BAF0EA-5844-4288-9184-05446BEFC466}
+	EndGlobalSection
+EndGlobal
